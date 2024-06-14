@@ -1,0 +1,19 @@
+.buttons {
+    border: none;
+    background: rgb(177, 88, 88);
+    color: orange;
+    font-size: 36px;
+    text-align: center;
+}
+
+.main-heading {
+    color: rgb(223, 137, 0);
+    font-weight: 100;
+    font-size: 48px;
+    text-align: center;
+}
+
+.main-bg {
+    background-color: rgb(61, 60, 60);
+    font-family: garamond;
+}
